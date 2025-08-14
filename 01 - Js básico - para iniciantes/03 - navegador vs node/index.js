@@ -1,0 +1,1 @@
+console.log('oarquivo index.js carregado');
