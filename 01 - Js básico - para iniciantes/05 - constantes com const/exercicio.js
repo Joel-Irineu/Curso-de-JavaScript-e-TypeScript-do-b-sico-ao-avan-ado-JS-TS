@@ -16,4 +16,4 @@ dataNascimento = 2025 - idade;
 
 console.log(`${nome} ${sobreNome} tem ${idade} anos, pesa ${peso}kg`);
 console.log(`tem ${altura} de altura e seu IMC é de ${imc}`);
-console.log(`e nasceu em ${dataNascimento}/01/1990`);
+console.log(`e nasceu em 29/01/${dataNascimento}`);
